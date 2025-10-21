@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Shiv Sharan Vishwakarma - Insurance Profile</title>
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f4f7fa;
+      color: #333;
+    }
+    .container {
+      max-width: 900px;
+      margin: 40px auto;
+      padding: 20px;
+    }
+    .header {
+      text-align: center;
+      background-color: #0046A0;
+      color: white;
+      padding: 30px 20px;
+      border-radius: 10px 10px 0 0;
+    }
+    .header h1 {
+      margin: 0;
+      font-size: 32px;
+    }
+    .header p {
+      margin: 5px 0 0 0;
+      font-size: 16px;
+    }
+    .profile-photo {
+      width: 120px;
+      height: 120px;
+      border-radius: 50%;
+      background-color: #ddd;
+      display: block;
+      margin: 20px auto 10px auto;
+      object-fit: cover;
+    }
+    .section {
+      background-color: white;
+      padding: 20px;
+      margin-bottom: 20px;
+      border-radius: 10px;
+      box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+    }
+    h2 {
+      color: #0046A0;
+      margin-top: 0;
+      margin-bottom: 10px;
+      border-bottom: 2px solid #0046A0;
+      padding-bottom: 5px;
+    }
+    ul {
+      margin-top: 5px;
+      padding-left: 20px;
+    }
+    li {
+      margin-bottom: 5px;
+    }
+    .contact {
+      text-align: center;
+      margin-bottom: 20px;
+      font-size: 14px;
+    }
+    @media(max-width: 600px){
+      .header h1 {
+        font-size: 24px;
+      }
+      .profile-photo {
+        width: 100px;
+        height: 100px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <h1>Shiv Sharan Vishwakarma</h1>
+      <p>Insurance Professional | Life & General Insurance Expert | Client Relationship Specialist</p>
+      <img src="" alt="Profile Photo" class="profile-photo">
+      <p class="contact">
+        Phone: 9838576305 | Email: ssvishwakarma22@gmail.com | Address: F-5007, Sector 11, Rajaji Puram, Lucknow
+      </p>
+    </div>
+
+    <div class="section">
+      <h2>Professional Summary</h2>
+      <p>Highly experienced insurance professional with 20 years of expertise in life and general insurance. Proven track record in client relationship management, policy planning, risk assessment, and claims processing. Recognized as a Top Performer for the last 10 years and consistently delivering exceptional client solutions.</p>
+    </div>
+
+    <div class="section">
+      <h2>Core Competencies</h2>
+      <ul>
+        <li>Life & Health Insurance Solutions</li>
+        <li>General & Commercial Insurance Policies</li>
+        <li>Client Relationship Management (CRM)</li>
+        <li>Risk Assessment & Mitigation</li>
+        <li>Policy Underwriting & Claims Support</li>
+        <li>Premium Collection & Financial Planning</li>
+        <li>Regulatory Compliance & Documentation</li>
+        <li>Sales & Business Development</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h2>Professional Experience</h2>
+      <p><strong>Insurance Advisor / Agent</strong> - United India Insurance Co. Ltd. (20 Years)</p>
+      <ul>
+        <li>Managed a diverse portfolio of clients, ensuring timely policy renewals & claims support</li>
+        <li>Delivered customized insurance solutions for individuals & businesses</li>
+        <li>Educated clients on risk management, policy benefits, and coverage options</li>
+        <li>Achieved Top Performer status for the last 10 years and 7-Star Category recognition</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h2>Education</h2>
+      <p>[Degree / Diploma], [University / College], [Year]<br>
+      Insurance & Financial Planning Certifications (if any)</p>
+    </div>
+
+    <div class="section">
+      <h2>Skills & Tools</h2>
+      <ul>
+        <li>CRM Software</li>
+        <li>MS Office & Financial Tools</li>
+        <li>Negotiation & Communication</li>
+        <li>Analytical & Problem-Solving Abilities</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h2>Achievements & Recognition</h2>
+      <ul>
+        <li>Top Performer - Last 10 Years</li>
+        <li>7-Star Category Recognition</li>
+        <li>Consistently exceeded sales and client satisfaction targets</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h2>Personal Statement</h2>
+      <p>Passionate about helping clients safeguard their future through comprehensive insurance planning. Committed to integrity, continuous learning, and delivering exceptional value in every interaction.</p>
+    </div>
+  </div>
+</body>
+</html>
